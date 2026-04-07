@@ -8,7 +8,7 @@
 
 ## ⚡ About Me
 
-I'm a **Software Engineer, Smart Contract Developer, and Open Source Contributor** with a foundation in **Chemical Engineering** and a strong focus on building **scalable, efficient, and decentralized systems**.
+I'm a **Software Engineer, Smart Contract Developer, and Open Source Contributor** with a strong focus on building **scalable, efficient, and decentralized systems**.
 
 I approach software like an engineer:
 breaking down complexity into structured, optimized, and reliable systems.
