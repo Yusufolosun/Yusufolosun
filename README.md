@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Yusuf Sulyman (Rexous)
+# 👋 Hey there, I'm Yusuf Sulyman (theRex)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Smart+Contract+Developer;Web3+Builder;Systems+Thinker&center=true&width=500&height=45">
@@ -75,8 +75,8 @@ breaking down complexity into structured, optimized, and reliable systems.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yusufolosun&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufolosun&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ breaking down complexity into structured, optimized, and reliable systems.
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Yusufolosun&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -111,10 +111,10 @@ I actively contribute to open source and enjoy collaborating on:
 ## 🤝 Let's Connect
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Yusufolosun">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:olosun.m1904582@st.futminna.edu.ng">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail">
   </a>
 </p>
