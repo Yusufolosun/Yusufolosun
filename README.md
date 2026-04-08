@@ -1,7 +1,7 @@
-# 👋 Hey there, I'm Yusuf Sulyman (theRex)
+# 👋 Hey there, I'm Yusuf Olosun Sulyman (theRex)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Smart+Contract+Developer;Web3+Builder;Systems+Thinker&center=true&width=500&height=45">
+<p align="justify">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Smart+Contract+Developer;Web3+Builder;Systems+Thinker&center=true&width=400&height=30">
 </p>
 
 ## ⚡ About Me
