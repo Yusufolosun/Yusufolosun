@@ -4,16 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Smart+Contract+Developer;Web3+Builder;Systems+Thinker&center=true&width=500&height=45">
 </p>
 
----
-
 ## ⚡ About Me
 
 I'm a **Software Engineer, Smart Contract Developer, and Open Source Contributor** with a strong focus on building **scalable, efficient, and decentralized systems**.
 
 I approach software like an engineer:
 breaking down complexity into structured, optimized, and reliable systems.
-
----
 
 ## 🧠 What I Do
 
@@ -23,7 +19,6 @@ breaking down complexity into structured, optimized, and reliable systems.
 - 🌐 Contribute to **open source projects**
 - 🧩 Simplify complex systems into clean, maintainable logic
 
----
 
 ## 🚀 Core Focus
 
@@ -32,7 +27,6 @@ breaking down complexity into structured, optimized, and reliable systems.
 - Backend Engineering & System Design
 - DevOps, CI/CD & Workflow Automation
 
----
 
 ## 🧰 Tech Stack
 
@@ -70,16 +64,7 @@ breaking down complexity into structured, optimized, and reliable systems.
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker">
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yusufolosun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufolosun&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
----
 
 ## 🔥 Contribution Activity
 
@@ -87,7 +72,6 @@ breaking down complexity into structured, optimized, and reliable systems.
   <img src="https://streak-stats.demolab.com?user=Yusufolosun&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
----
 
 ## 🧠 Engineering Mindset
 
@@ -96,7 +80,6 @@ breaking down complexity into structured, optimized, and reliable systems.
 - Automate anything that repeats
 - Build with **long-term architecture in mind**
 
----
 
 ## 🌍 Open Source & Collaboration
 
@@ -106,7 +89,6 @@ I actively contribute to open source and enjoy collaborating on:
 - Backend Infrastructure  
 - Developer Tooling & Automation Systems  
 
----
 
 ## 🤝 Let's Connect
 
